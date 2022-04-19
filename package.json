@@ -1,0 +1,24 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1640029074",
+    "@mediapipe/control_utils": "^0.6.1629159505",
+    "@mediapipe/hands": "^0.4.1646424915",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "midi": "^2.0.0",
+    "node-osc": "^6.1.14",
+    "osc": "^2.4.2",
+    "p5": "^1.4.1",
+    "requirejs": "^2.3.6",
+    "socket.io": "^4.4.1"
+  }
+}

@@ -1,0 +1,24 @@
+body {
+  background-color: #0057ff;
+}
+̧̦
+#canvas{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index:1;
+}
+
+#video{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index:-1;
+  border: 3px #fff solid;
+	border-radius: 10px;
+}
+
+.canvasStyle{
+  margin: auto;
+  width: 50%;
+}
